@@ -1,2 +1,2 @@
-# lamiaceae-deploy
-steamlit
+# LamiaceaeClassify-deploy
+by python library steamlit.
